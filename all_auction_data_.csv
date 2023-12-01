@@ -1,0 +1,587 @@
+,player_name,type,sold_price,year
+0,robin uthappa,Batsman,41000000.0,2022
+1,robin uthappa,Wicket Keeper,41000000.0,2022
+2,dwayne bravo,All-Rounder,54000000.0,2022
+3,ambati rayudu,Wicket Keeper,44750000.0,2022
+4,deepak chahar,Bowler,49666666.666666664,2022
+5,deepak chahar,All-Rounder,49666666.666666664,2022
+6,c.hari nishaanth,Batsman,2000000.0,2022
+7,n. jagadeesan,Wicket Keeper,2000000.0,2022
+8,k.m. asif,Bowler,2000000.0,2022
+9,tushar deshpande,Bowler,2000000.0,2022
+10,shivam dube,All-Rounder,44666666.666666664,2022
+11,chris jordan,All-Rounder,20250000.0,2022
+12,maheesh theekshana,Bowler,7000000.0,2022
+13,rajvardhan hangargekar,All-Rounder,15000000.0,2022
+14,simarjeet singh,Bowler,2000000.0,2022
+15,devon conway,Batsman,10000000.0,2022
+16,dwaine pretorius,All-Rounder,5000000.0,2022
+17,mitchell santner,All-Rounder,12000000.0,2022
+18,adam milne,Bowler,19333333.333333332,2022
+19,subhranshu senapati,Batsman,2000000.0,2022
+20,mukesh choudhary,Bowler,2000000.0,2022
+21,prashant solanki,Bowler,12000000.0,2022
+22,k.bhagath varma,All-Rounder,2000000.0,2022
+23,david warner,Batsman,58750000.0,2022
+24,mitchell marsh,All-Rounder,44333333.333333336,2022
+25,mustafizur rahman,Bowler,16500000.0,2022
+26,shardul thakur,Bowler,107500000.0,2022
+27,kuldeep yadav,Bowler,20000000.0,2022
+28,ashwin hebbar,Batsman,2000000.0,2022
+29,sarfaraz khan,All-Rounder,2000000.0,2022
+30,kamlesh nagarkoti,All-Rounder,21500000.0,2022
+31,k.s. bharat,Wicket Keeper,20000000.0,2022
+32,mandeep singh,Batsman,12500000.0,2022
+33,mandeep singh,All-Rounder,12500000.0,2022
+34,syed khaleel ahmed,Bowler,27833333.333333332,2022
+35,syed khaleel ahmed,All-Rounder,27833333.333333332,2022
+36,lungisani ngidi,Bowler,5000000.0,2022
+37,chetan sakariya,Bowler,27000000.0,2022
+38,yash dhull,All-Rounder,5000000.0,2022
+39,vicky ostwal,All-Rounder,2000000.0,2022
+40,ripal patel,All-Rounder,2000000.0,2022
+41,lalit yadav,All-Rounder,4250000.0,2022
+42,rovman powell,Batsman,15500000.0,2022
+43,rovman powell,All-Rounder,15500000.0,2022
+44,tim seifert,Wicket Keeper,5000000.0,2022
+45,pravin dubey,All-Rounder,5000000.0,2022
+46,mohammad shami,Bowler,45750000.0,2022
+47,david miller,Batsman,22500000.0,2022
+48,jason roy,Batsman,15000000.0,2022
+49,wriddhiman saha,Wicket Keeper,25750000.0,2022
+50,matthew wade,Wicket Keeper,24000000.0,2022
+51,lockie ferguson,Bowler,40333333.333333336,2022
+52,abhinav sadarangani,Batsman,26000000.0,2022
+53,rahul tewatia,All-Rounder,30875000.0,2022
+54,noor ahmad,Bowler,3000000.0,2022
+55,r. sai kishore,Bowler,16000000.0,2022
+56,dominic drakes,All-Rounder,11000000.0,2022
+57,vijay shankar,All-Rounder,12625000.0,2022
+58,jayant yadav,All-Rounder,7666666.666666667,2022
+59,darshan nalkande,All-Rounder,2500000.0,2022
+60,yash dayal,Bowler,32000000.0,2022
+61,b. sai sudharsan,All-Rounder,2000000.0,2022
+62,gurkeerat singh,All-Rounder,5000000.0,2022
+63,alzarri joseph,Bowler,24000000.0,2022
+64,varun aaron,Bowler,19250000.0,2022
+65,pradeep sangwan,All-Rounder,6333333.333333333,2022
+66,pradeep sangwan,Bowler,6333333.333333333,2022
+67,pat cummins,All-Rounder,93833333.33333333,2022
+68,pat cummins,Bowler,93833333.33333333,2022
+69,shreyas iyer,Batsman,74250000.0,2022
+70,mohammad nabi,All-Rounder,7666666.666666667,2022
+71,nitish rana,All-Rounder,38333333.333333336,2022
+72,sam billings,Wicket Keeper,13250000.0,2022
+73,umesh yadav,Bowler,24500000.0,2022
+74,shivam mavi,All-Rounder,51250000.0,2022
+75,sheldon jackson,Wicket Keeper,3166666.6666666665,2022
+76,sheldon jackson,Batsman,3166666.6666666665,2022
+77,ajinkya rahane,Batsman,25000000.0,2022
+78,rinku singh,Batsman,4833333.333333333,2022
+79,anukul roy,All-Rounder,2000000.0,2022
+80,alex hales,Batsman,15000000.0,2022
+81,rasikh dar,Bowler,2000000.0,2022
+82,tim southee,Bowler,15500000.0,2022
+83,baba indrajith,Wicket Keeper,2000000.0,2022
+84,chamika karunaratne,All-Rounder,5000000.0,2022
+85,abhijeet tomar,Batsman,4000000.0,2022
+86,aman khan,All-Rounder,2000000.0,2022
+87,ramesh kumar,Batsman,2000000.0,2022
+88,pratham singh,Batsman,1500000.0,2022
+89,pratham singh,All-Rounder,1500000.0,2022
+90,ashok sharma,Bowler,5500000.0,2022
+91,quinton de kock,Wicket Keeper,33000000.0,2022
+92,manish pandey,Batsman,57666666.666666664,2022
+93,jason holder,All-Rounder,25875000.0,2022
+94,jason holder,Bowler,25875000.0,2022
+95,deepak hooda,All-Rounder,28900000.0,2022
+96,deepak hooda,Bowler,28900000.0,2022
+97,krunal pandya,All-Rounder,63500000.0,2022
+98,mark wood,Bowler,45000000.0,2022
+99,avesh khan,Bowler,53500000.0,2022
+100,ankit singh rajpoot,Bowler,16666666.666666666,2022
+101,k. gowtham,All-Rounder,9000000.0,2022
+102,dushmanta chameera,Bowler,20000000.0,2022
+103,shahbaz nadeem,Bowler,15166666.666666666,2022
+104,manan vohra,Batsman,5000000.0,2022
+105,evin lewis,Batsman,29000000.0,2022
+106,mohsin khan,Bowler,2000000.0,2022
+107,mayank yadav,Bowler,2000000.0,2022
+108,ayush badoni,All-Rounder,2000000.0,2022
+109,kyle mayers,All-Rounder,5000000.0,2022
+110,karan sharma,All-Rounder,2000000.0,2022
+111,ishan kishan,Wicket Keeper,72666666.66666667,2022
+112,dewald brevis,Batsman,30000000.0,2022
+113,anmolpreet singh,Batsman,5000000.0,2022
+114,basil thampi,Bowler,7000000.0,2022
+115,murugan ashwin,Bowler,16000000.0,2022
+116,jaydev unadkat,Bowler,37708333.333333336,2022
+117,mayank markande,Bowler,4250000.0,2022
+118,n. tilak varma,All-Rounder,17000000.0,2022
+119,sanjay yadav,All-Rounder,3500000.0,2022
+120,jofra archer,All-Rounder,76000000.0,2022
+121,daniel sams,All-Rounder,26000000.0,2022
+122,tymal mills,Bowler,67500000.0,2022
+123,tim david,All-Rounder,82500000.0,2022
+124,ramandeep singh,All-Rounder,2000000.0,2022
+125,aryan juyal,Wicket Keeper,2000000.0,2022
+126,fabian allen,All-Rounder,6666666.666666667,2022
+127,riley meredith,Bowler,45000000.0,2022
+128,rahul buddhi,Batsman,2000000.0,2022
+129,hrithik shokeen,All-Rounder,2000000.0,2022
+130,mohd. arshad khan,All-Rounder,2000000.0,2022
+131,arjun tendulkar,All-Rounder,2500000.0,2022
+132,shikhar dhawan,Batsman,67250000.0,2022
+133,kagiso rabada,Bowler,61500000.0,2022
+134,jonny bairstow,Wicket Keeper,44750000.0,2022
+135,rahul chahar,Bowler,24166666.666666668,2022
+136,harpreet brar,All-Rounder,20000000.0,2022
+137,shahrukh khan,All-Rounder,71250000.0,2022
+138,jitesh sharma,Wicket Keeper,1500000.0,2022
+139,prabhsimran singh,Wicket Keeper,19833333.333333332,2022
+140,ishan porel,Bowler,2250000.0,2022
+141,liam livingstone,All-Rounder,42500000.0,2022
+142,odean smith,All-Rounder,60000000.0,2022
+143,sandeep sharma,Bowler,14500000.0,2022
+144,raj angad bawa,All-Rounder,20000000.0,2022
+145,rishi dhawan,All-Rounder,13666666.666666666,2022
+146,nathan ellis,Bowler,7500000.0,2022
+147,prerak mankad,All-Rounder,2000000.0,2022
+148,atharva taide,All-Rounder,2000000.0,2022
+149,vaibhav arora,Bowler,11000000.0,2022
+150,bhanuka rajapaksa,Batsman,5000000.0,2022
+151,benny howell,All-Rounder,4000000.0,2022
+152,writtick chatterjee,All-Rounder,2000000.0,2022
+153,baltej dhanda,Bowler,2000000.0,2022
+154,ansh patel,All-Rounder,2000000.0,2022
+155,r. ashwin,All-Rounder,50000000.0,2022
+156,trent boult,Bowler,47500000.0,2022
+157,shimron hetmyer,Batsman,68166666.66666667,2022
+158,devdutt padikkal,Batsman,39750000.0,2022
+159,prasidh krishna,Bowler,100000000.0,2022
+160,yuzvendra chahal,Bowler,65000000.0,2022
+161,riyan parag,All-Rounder,20000000.0,2022
+162,k.c cariappa,Bowler,2500000.0,2022
+163,james neesham,All-Rounder,8000000.0,2022
+164,nathan coulter-nile,Bowler,40464285.71428572,2022
+165,navdeep saini,Bowler,19000000.0,2022
+166,kuldeep sen,Bowler,2000000.0,2022
+167,karun nair,Batsman,24500000.0,2022
+168,rassie van der dussen,Batsman,10000000.0,2022
+169,daryl mitchell,All-Rounder,7500000.0,2022
+170,obed mccoy,Bowler,7500000.0,2022
+171,dhruv jurel,Wicket Keeper,2000000.0,2022
+172,tejas baroka,Bowler,2000000.0,2022
+173,kuldip yadav,Bowler,2000000.0,2022
+174,shubham garhwal,All-Rounder,2000000.0,2022
+175,anunay singh,All-Rounder,2000000.0,2022
+176,faf du plessis,Batsman,44500000.0,2022
+177,wanindu hasaranga,All-Rounder,107500000.0,2022
+178,harshal patel,All-Rounder,37833333.333333336,2022
+179,harshal patel,Bowler,37833333.333333336,2022
+180,dinesh karthik,Wicket Keeper,76400000.0,2022
+181,josh hazlewood,Bowler,34166666.666666664,2022
+182,shahbaz ahamad,All-Rounder,13000000.0,2022
+183,shahbaz ahamad,Wicket Keeper,13000000.0,2022
+184,anuj rawat,Wicket Keeper,21000000.0,2022
+185,akash deep,Bowler,2000000.0,2022
+186,karn sharma,Bowler,31125000.0,2022
+187,karn sharma,All-Rounder,31125000.0,2022
+188,mahipal lomror,All-Rounder,4166666.6666666665,2022
+189,finn allen,Batsman,8000000.0,2022
+190,sherfane rutherford,All-Rounder,15000000.0,2022
+191,jason behrendorff,Bowler,11250000.0,2022
+192,siddharth kaul,Bowler,7500000.0,2022
+193,suyash prabhudessai,All-Rounder,3000000.0,2022
+194,luvnith sisodia,Wicket Keeper,2000000.0,2022
+195,chama milind,Bowler,1500000.0,2022
+196,aneeshwar gautam,All-Rounder,2000000.0,2022
+197,david willey,All-Rounder,20000000.0,2022
+198,washington sundar,All-Rounder,87500000.0,2022
+199,nicholas pooran,Wicket Keeper,107500000.0,2022
+200,bhuvneshwar kumar,Bowler,42250000.0,2022
+201,t. natarajan,Bowler,40000000.0,2022
+202,priyam garg,Batsman,10500000.0,2022
+203,rahul tripathi,Batsman,41666666.666666664,2022
+204,abhishek sharma,All-Rounder,35250000.0,2022
+205,vishnu vinod,Wicket Keeper,3500000.0,2022
+206,kartik tyagi,Bowler,26500000.0,2022
+207,shreyas gopal,Bowler,3500000.0,2022
+208,shreyas gopal,All-Rounder,3500000.0,2022
+209,jagadeesha suchith,Bowler,2000000.0,2022
+210,aiden markram,Batsman,26000000.0,2022
+211,marco jansen,All-Rounder,22000000.0,2022
+212,romario shepherd,All-Rounder,77500000.0,2022
+213,glenn phillips,Wicket Keeper,15000000.0,2022
+214,fazalhaq farooqi,Bowler,5000000.0,2022
+215,sean abbott,Bowler,17000000.0,2022
+216,r samarth,Batsman,2000000.0,2022
+217,shashank singh,All-Rounder,2000000.0,2022
+218,saurabh dubey,Bowler,2000000.0,2022
+219,krishnappa gowtham,All-Rounder,58166666.666666664,2021
+220,krishnappa gowtham,Bowler,58166666.666666664,2021
+221,moeen ali,All-Rounder,43500000.0,2021
+222,cheteshwar pujara,Batsman,12000000.0,2021
+223,c hari nishaanth,Batsman,2000000.0,2021
+224,m. harisankar reddy,Bowler,2000000.0,2021
+225,tom curran,All-Rounder,31250000.0,2021
+226,steven smith,Batsman,31000000.0,2021
+227,steven smith,All-Rounder,31000000.0,2021
+228,lukman hussain meriwala,Bowler,2000000.0,2021
+229,m siddharth,Bowler,2000000.0,2021
+230,shakib al hasan,All-Rounder,26666666.666666668,2021
+231,harbhajan singh,Bowler,20000000.0,2021
+232,ben cutting,All-Rounder,10625000.0,2021
+233,ben cutting,Bowler,10625000.0,2021
+234,pawan negi,All-Rounder,22200000.0,2021
+235,pawan negi,Bowler,22200000.0,2021
+236,venkatesh iyer,All-Rounder,2000000.0,2021
+237,piyush chawla,Bowler,44000000.0,2021
+238,yudhvir charak,All-Rounder,2000000.0,2021
+239,jhye richardson,Bowler,140000000.0,2021
+240,moises henriques,All-Rounder,21125000.0,2021
+241,dawid malan,All-Rounder,15000000.0,2021
+242,jalaj saxena,All-Rounder,3750000.0,2021
+243,saurabh kumar,All-Rounder,1500000.0,2021
+244,saurabh kumar,Bowler,1500000.0,2021
+245,utkarsh singh,All-Rounder,2000000.0,2021
+246,christopher morris,All-Rounder,78675000.0,2021
+247,akash singh,Bowler,2000000.0,2021
+248,kyle jamieson,All-Rounder,150000000.0,2021
+249,glenn maxwell,All-Rounder,95000000.0,2021
+250,dan christian,All-Rounder,48000000.0,2021
+251,sachin baby,Batsman,1666666.6666666667,2021
+252,rajat patidar,Batsman,2000000.0,2021
+253,mohammed azharudeen,Wicket Keeper,2000000.0,2021
+254,suyash prabhudesai,All-Rounder,2000000.0,2021
+255,kona srikar bharat,Wicket Keeper,1500000.0,2021
+256,kedar jadhav,All-Rounder,39333333.333333336,2021
+257,kedar jadhav,Batsman,39333333.333333336,2021
+258,mujeeb zadran,Bowler,27500000.0,2021
+259,j suchith,Bowler,3000000.0,2021
+260,sam curran,All-Rounder,63500000.0,2020
+261,marcus stoinis,All-Rounder,29500000.0,2020
+262,alex carey,Wicket Keeper,24000000.0,2020
+263,chris woakes,All-Rounder,43666666.666666664,2020
+264,mohit sharma,Bowler,32800000.0,2020
+265,sheldon cottrell,Bowler,85000000.0,2020
+266,ravi bishnoi,Bowler,20000000.0,2020
+267,tajinder dhillon,All-Rounder,3750000.0,2020
+268,eoin morgan,Batsman,29166666.666666668,2020
+269,varun chakaravarthy,All-Rounder,62000000.0,2020
+270,tom banton,Batsman,10000000.0,2020
+271,chris green,All-Rounder,2000000.0,2020
+272,nikhil shankar naik,Wicket Keeper,2333333.3333333335,2020
+273,pravin tambe,Bowler,1500000.0,2020
+274,chris lynn,Batsman,43000000.0,2020
+275,saurabh tiwary,Batsman,5750000.0,2020
+276,digvijay deshmukh,All-Rounder,2000000.0,2020
+277,prince balwant rai singh,All-Rounder,2000000.0,2020
+278,yashasvi jaiswal,All-Rounder,24000000.0,2020
+279,andrew tye,Bowler,22250000.0,2020
+280,andrew tye,All-Rounder,22250000.0,2020
+281,oshane thomas,Bowler,8000000.0,2020
+282,anirudha ashok joshi,All-Rounder,2000000.0,2020
+283,aaron finch,Batsman,37600000.0,2020
+284,kane richardson,Bowler,30625000.0,2020
+285,dale steyn,Bowler,21500000.0,2020
+286,isuru udana,All-Rounder,5000000.0,2020
+287,joshua philippe,Wicket Keeper,2000000.0,2020
+288,pavan deshpande,All-Rounder,2000000.0,2020
+289,virat singh,Batsman,19000000.0,2020
+290,sandeep bavanaka,All-Rounder,2000000.0,2020
+291,abdul samad,All-Rounder,2000000.0,2020
+292,ruturaj gaikwad,Batsman,2000000.0,2019
+293,colin ingram,Batsman,64000000.0,2019
+294,axar rajesh patel,All-Rounder,50000000.0,2019
+295,hanuma vihari,Batsman,10500000.0,2019
+296,ishant sharma,Bowler,25000000.0,2019
+297,keemo paul,All-Rounder,5000000.0,2019
+298,ankush bains,Wicket Keeper,1250000.0,2019
+299,nathu singh,Bowler,13000000.0,2019
+300,bandaru ayyappa,Bowler,2000000.0,2019
+301,nicolas pooran,Wicket Keeper,22500000.0,2019
+302,hardus viljoen,Bowler,7500000.0,2019
+303,sarfaraz naushad khan,All-Rounder,3750000.0,2019
+304,sarfaraz naushad khan,Batsman,3750000.0,2019
+305,arshdeep singh,Bowler,2000000.0,2019
+306,agnivesh ayachi,All-Rounder,2000000.0,2019
+307,m. ashwin,Bowler,19750000.0,2019
+308,carlos brathwaite,All-Rounder,37333333.333333336,2019
+309,joe denly,Batsman,10000000.0,2019
+310,harry gurney,Bowler,7500000.0,2019
+311,shrikant mundhe,All-Rounder,2000000.0,2019
+312,prithvi raj yarra,Bowler,2000000.0,2019
+313,anrich nortje,Bowler,2000000.0,2019
+314,barinder singh sran,Bowler,22666666.666666668,2019
+315,lasith malinga,Bowler,20000000.0,2019
+316,yuvraj singh,All-Rounder,80000000.0,2019
+317,yuvraj singh,Batsman,80000000.0,2019
+318,pankaj jaswal,All-Rounder,2000000.0,2019
+319,ashton turner,All-Rounder,5000000.0,2019
+320,shubham ranjane,All-Rounder,2000000.0,2019
+321,akshdeep nath,All-Rounder,12000000.0,2019
+322,prayas ray barman,All-Rounder,15000000.0,2019
+323,himmat singh,Batsman,6500000.0,2019
+324,gurkeerat singh mann,All-Rounder,6250000.0,2019
+325,heinrich klaasen,Wicket Keeper,5000000.0,2019
+326,milind kumar,All-Rounder,1500000.0,2019
+327,milind kumar,Batsman,1500000.0,2019
+328,martin guptill,Batsman,7500000.0,2019
+329,shane watson,All-Rounder,67500000.0,2018
+330,shardul narendra thakur,Bowler,14000000.0,2018
+331,murali vijay,Batsman,33333333.333333332,2018
+332,imran tahir,Bowler,10000000.0,2018
+333,asif k m,Bowler,4000000.0,2018
+334,n jagadeesan,Wicket Keeper,2000000.0,2018
+335,kanishk seth,All-Rounder,2000000.0,2018
+336,monu singh,Bowler,2000000.0,2018
+337,dhruv shorey,All-Rounder,2000000.0,2018
+338,kshitiz sharma,All-Rounder,2000000.0,2018
+339,chaitanya bishnoi,All-Rounder,2000000.0,2018
+340,amit mishra,Bowler,24900000.0,2018
+341,gautam gambhir,Batsman,28000000.0,2018
+342,colin munro,All-Rounder,11000000.0,2018
+343,daniel christian,All-Rounder,10833333.333333334,2018
+344,naman ojha,Wicket Keeper,9500000.0,2018
+345,prithvi shaw,Batsman,12000000.0,2018
+346,manjot kalra,Batsman,2000000.0,2018
+347,sandeep lamichhane,Bowler,2000000.0,2018
+348,sayan ghosh,Bowler,1500000.0,2018
+349,kl rahul,Batsman,60000000.0,2018
+350,ravichandran ashwin,All-Rounder,76000000.0,2018
+351,christopher gayle,Batsman,20000000.0,2018
+352,ben dwarshuis,Bowler,14000000.0,2018
+353,manoj tiwary,Batsman,14333333.333333334,2018
+354,mayank agarwal,Batsman,13000000.0,2018
+355,manzoor dar,All-Rounder,2000000.0,2018
+356,pardeep sahu,Bowler,1333333.3333333333,2018
+357,pardeep sahu,All-Rounder,1333333.3333333333,2018
+358,mayank dagar,All-Rounder,2000000.0,2018
+359,mitchell starc,Bowler,72000000.0,2018
+360,kuldeep singh yadav,Bowler,31000000.0,2018
+361,mitchell johnson,Bowler,35000000.0,2018
+362,mitchell johnson,All-Rounder,35000000.0,2018
+363,shubman gill,Batsman,18000000.0,2018
+364,ranganath vinay kumar,Bowler,19000000.0,2018
+365,cameron delport,All-Rounder,3000000.0,2018
+366,javon searless,All-Rounder,3000000.0,2018
+367,apoorv vijay wankhade,Batsman,1500000.0,2018
+368,ishank jaggi,Batsman,1500000.0,2018
+369,kieron pollard,All-Rounder,54000000.0,2018
+370,suryakumar yadav,Batsman,19500000.0,2018
+371,jean-paul duminy,All-Rounder,16000000.0,2018
+372,jean-paul duminy,Batsman,16000000.0,2018
+373,akila dhananjaya,Bowler,5000000.0,2018
+374,nidheesh m d dinesan,Bowler,2000000.0,2018
+375,aditya tare,Wicket Keeper,8125000.0,2018
+376,siddhesh dinesh lad,Batsman,1500000.0,2018
+377,siddhesh dinesh lad,All-Rounder,1500000.0,2018
+378,sharad lumba,Batsman,2000000.0,2018
+379,benjamin stokes,All-Rounder,135000000.0,2018
+380,sanju samson,Wicket Keeper,61000000.0,2018
+381,jos buttler,Wicket Keeper,41000000.0,2018
+382,darcy short,All-Rounder,40000000.0,2018
+383,dhawal kulkarni,Bowler,12833333.333333334,2018
+384,zahir khan pakteen,Bowler,6000000.0,2018
+385,ben laughlin,Bowler,3166666.6666666665,2018
+386,stuart binny,All-Rounder,12500000.0,2018
+387,dushmantha chameera,Bowler,5000000.0,2018
+388,anureet singh,Bowler,2500000.0,2018
+389,aryaman vikram birla,All-Rounder,3000000.0,2018
+390,midhun s,All-Rounder,2000000.0,2018
+391,prashant chopra,Wicket Keeper,2000000.0,2018
+392,jatin saxena,All-Rounder,2000000.0,2018
+393,ankit sharma,All-Rounder,1500000.0,2018
+394,yuzvendra singh chahal,Bowler,30500000.0,2018
+395,brendon mccullum,Batsman,34250000.0,2018
+396,brendon mccullum,Wicket Keeper,34250000.0,2018
+397,m.s. washington sundar,All-Rounder,32000000.0,2018
+398,mohammed siraj,Bowler,26000000.0,2018
+399,colin de grandhomme,All-Rounder,22000000.0,2018
+400,parthiv patel,Wicket Keeper,15500000.0,2018
+401,kulwant khejroliya,Bowler,4750000.0,2018
+402,aniket choudhary,Bowler,11500000.0,2018
+403,rashid khan arman,Bowler,65000000.0,2018
+404,siddarth kaul,Bowler,14500000.0,2018
+405,kane williamson,Batsman,18000000.0,2018
+406,kane williamson,All-Rounder,18000000.0,2018
+407,yusuf pathan,All-Rounder,25750000.0,2018
+408,shreevats goswami,Wicket Keeper,10000000.0,2018
+409,billy stanlake,Batsman,4000000.0,2018
+410,billy stanlake,Bowler,4000000.0,2018
+411,t natarajan,Bowler,17000000.0,2018
+412,bipul sharma,All-Rounder,2000000.0,2018
+413,syed mehdi hasan,All-Rounder,2000000.0,2018
+414,ricky bhui,Batsman,1500000.0,2018
+415,tanmay agarwal,Batsman,1500000.0,2018
+416,patrick cummins,Bowler,27500000.0,2017
+417,angelo mathews,All-Rounder,47500000.0,2017
+418,corey anderson,All-Rounder,27500000.0,2017
+419,ankeet bawane,Batsman,1000000.0,2017
+420,manpreet gony,Bowler,21750000.0,2017
+421,munaf patel,Bowler,3000000.0,2017
+422,shubam agrawal,All-Rounder,1000000.0,2017
+423,tejas singh baroka,Bowler,1000000.0,2017
+424,chirag suri,Batsman,1000000.0,2017
+425,shelley shaurya,Bowler,1000000.0,2017
+426,matt henry,Bowler,4000000.0,2017
+427,darren sammy,All-Rounder,24468750.0,2017
+428,darren bravo,Batsman,5000000.0,2017
+429,r. sanjay yadav,All-Rounder,1000000.0,2017
+430,asela gunarathna,Batsman,3000000.0,2017
+431,milind tandon,All-Rounder,1000000.0,2017
+432,rahul ajay tripathi,All-Rounder,1000000.0,2017
+433,praveen dubey,All-Rounder,2250000.0,2017
+434,eklavya dwivedi,Wicket Keeper,6166666.666666667,2017
+435,rishabh pant,Wicket Keeper,19000000.0,2016
+436,joel paris,Bowler,3000000.0,2016
+437,pratyush singh,All-Rounder,1000000.0,2016
+438,akhil arvind herwadkar,All-Rounder,1000000.0,2016
+439,pawan suyal,Bowler,1000000.0,2016
+440,praveen kumar,Bowler,28500000.0,2016
+441,dwayne smith,All-Rounder,34000000.0,2016
+442,dwayne smith,Batsman,34000000.0,2016
+443,jaydev shah,All-Rounder,2000000.0,2016
+444,shadab jakati,All-Rounder,2000000.0,2016
+445,shadab jakati,Bowler,2000000.0,2016
+446,shivil kaushik,Bowler,1000000.0,2016
+447,sarabjit ladda,Bowler,1000000.0,2016
+448,umang sharma,Batsman,1000000.0,2016
+449,paras dogra,Batsman,1000000.0,2016
+450,kyle abbott,Bowler,12000000.0,2016
+451,k.c. cariappa,Bowler,16000000.0,2016
+452,farhaan behardien,All-Rounder,3000000.0,2016
+453,armaan jaffer,Batsman,1000000.0,2016
+454,swapnil singh,All-Rounder,1000000.0,2016
+455,john hastings,Bowler,9000000.0,2016
+456,john hastings,All-Rounder,9000000.0,2016
+457,rajagopal sathish,All-Rounder,2000000.0,2016
+458,manan ajay sharma,All-Rounder,1000000.0,2016
+459,kishore pramod kamath,All-Rounder,14000000.0,2016
+460,deepak punia,All-Rounder,1000000.0,2016
+461,kevin pietersen,Batsman,48333333.333333336,2016
+462,irfan pathan,All-Rounder,16333333.333333334,2016
+463,thisara perera,All-Rounder,25541666.666666668,2016
+464,rajat bhatia,All-Rounder,11500000.0,2016
+465,ashok dinda,Bowler,10000000.0,2016
+466,scott boland,Bowler,5000000.0,2016
+467,peter handscomb,Wicket Keeper,3000000.0,2016
+468,rudra pratap singh,Bowler,16500000.0,2016
+469,adam zampa,Bowler,3000000.0,2016
+470,ishwar chandra pandey,Bowler,8500000.0,2016
+471,jaskaran singh,Bowler,1000000.0,2016
+472,baba aparajith,All-Rounder,1000000.0,2016
+473,baba aparajith,Batsman,1000000.0,2016
+474,samuel badree,Bowler,4000000.0,2016
+475,travis head,Batsman,4000000.0,2016
+476,vikramjeet malik,Bowler,2000000.0,2016
+477,akshay karnewar,All-Rounder,1000000.0,2016
+478,iqbal abdullah,All-Rounder,3750000.0,2016
+479,vikas tokas,Bowler,1000000.0,2016
+480,ashish nehra,Bowler,37500000.0,2016
+481,abhimanyu mithun,Bowler,3000000.0,2016
+482,tirumalasetti suman,Batsman,1000000.0,2016
+483,michael hussey,Batsman,32500000.0,2015
+484,rahul sharma,Bowler,11000000.0,2015
+485,zaheer khan,Bowler,33000000.0,2015
+486,gurinder sandhu,Bowler,17000000.0,2015
+487,domnic joseph muthuswamy,Bowler,7500000.0,2015
+488,albie morkel,All-Rounder,13500000.0,2015
+489,c.m. gautam,Wicket Keeper,2000000.0,2015
+490,k.k. jiyaz,Bowler,1000000.0,2015
+491,yogesh gowalkar,All-Rounder,1000000.0,2015
+492,brad hogg,Bowler,5000000.0,2015
+493,aditya garhwal,All-Rounder,2500000.0,2015
+494,sumit narwal,All-Rounder,1000000.0,2015
+495,vaibhav rawal,All-Rounder,1000000.0,2015
+496,pragyan ojha,Bowler,18750000.0,2015
+497,mitchell mcclenaghan,Bowler,3000000.0,2015
+498,aiden blizzard,Batsman,3000000.0,2015
+499,hardik pandya,All-Rounder,1000000.0,2015
+500,akshay wakhare,Bowler,1000000.0,2015
+501,j. suchitch,All-Rounder,1000000.0,2015
+502,juan theron,Bowler,3000000.0,2015
+503,barinder singh saran,Bowler,1000000.0,2015
+504,dinesh salunkhe,All-Rounder,1000000.0,2015
+505,sagar trivedi,All-Rounder,1000000.0,2015
+506,david wiese,All-Rounder,28000000.0,2015
+507,subramaniam badrinath,Batsman,3000000.0,2015
+508,shishir bhavane,Batsman,1000000.0,2015
+509,ravi bopara,All-Rounder,10000000.0,2015
+510,laxmi ratan shukla,All-Rounder,9000000.0,2015
+511,prasanth padmanabhan,All-Rounder,1000000.0,2015
+512,ben hilfenhaus,Bowler,10000000.0,2014
+513,mithun manhas,All-Rounder,3000000.0,2014
+514,ronit more,Bowler,1000000.0,2014
+515,ross taylor,Batsman,20000000.0,2014
+516,wayne parnell,Bowler,10000000.0,2014
+517,rahul shukla,Bowler,4000000.0,2014
+518,hs sharath,Bowler,1000000.0,2014
+519,george bailey,Batsman,32500000.0,2014
+520,virender sehwag,Batsman,32000000.0,2014
+521,shaun marsh,Batsman,22000000.0,2014
+522,beuran hendricks,Bowler,18000000.0,2014
+523,lakshmipathy balaji,Bowler,18000000.0,2014
+524,gurkirat singh mann,Batsman,13000000.0,2014
+525,murali kartik,Bowler,10000000.0,2014
+526,mandeep hardev singh,All-Rounder,8000000.0,2014
+527,akshar rajesh patel,All-Rounder,7500000.0,2014
+528,parvinder awana,Bowler,6500000.0,2014
+529,shivam sharma,Bowler,1000000.0,2014
+530,karanveer singh,All-Rounder,1000000.0,2014
+531,jacques kallis,All-Rounder,55000000.0,2014
+532,morne morkel,Bowler,28000000.0,2014
+533,ryan ten doeschate,All-Rounder,10000000.0,2014
+534,andre russell,All-Rounder,6000000.0,2014
+535,manvinder bisla,Wicket Keeper,6000000.0,2014
+536,veer pratap singh,Bowler,4000000.0,2014
+537,debabrata das,Wicket Keeper,2000000.0,2014
+538,sayan sekhar mandal,All-Rounder,1000000.0,2014
+539,jasprit bumrah,Bowler,12000000.0,2014
+540,marchant de lange,Bowler,3000000.0,2014
+541,krismar santokie,Bowler,3000000.0,2014
+542,ben dunk,Wicket Keeper,2000000.0,2014
+543,sushant marathe,Wicket Keeper,1000000.0,2014
+544,brad hodge,Batsman,24000000.0,2014
+545,abhishek nayar,All-Rounder,30312500.0,2014
+546,unmukt chand,Batsman,6500000.0,2014
+547,dishant yagnik,Wicket Keeper,3000000.0,2014
+548,kevon cooper,All-Rounder,3000000.0,2014
+549,ankit nagendra sharma,Bowler,1000000.0,2014
+550,muttiah muralitharan,Bowler,10000000.0,2014
+551,ravi rampaul,Bowler,15375000.0,2014
+552,nic maddinson,Batsman,5000000.0,2014
+553,vijay zol,Batsman,3000000.0,2014
+554,abu nechim ahmed,Bowler,3000000.0,2014
+555,sachin rana,Bowler,2000000.0,2014
+556,sandeep warrier,Bowler,1000000.0,2014
+557,tanmay mishra,Batsman,1000000.0,2014
+558,yogesh takawale,Wicket Keeper,1000000.0,2014
+559,parveez rasool,All-Rounder,9500000.0,2014
+560,venugopal rao,Batsman,5500000.0,2014
+561,brendan taylor,Wicket Keeper,3000000.0,2014
+562,prasanth parameswaran,Bowler,3000000.0,2014
+563,amit paunikar,Wicket Keeper,2000000.0,2014
+564,ashish reddy,Bowler,2000000.0,2014
+565,srikkanth anirudha,Batsman,2000000.0,2014
+566,manprit juneja,Batsman,1000000.0,2014
+567,dirk nannes,Bowler,45000000.0,2013
+568,akila dananjaya,All-Rounder,1500000.0,2013
+569,jeevan mendis,All-Rounder,3750000.0,2013
+570,luke pomersbach,Batsman,22500000.0,2013
+571,sachithra senanayaka,All-Rounder,46875000.0,2013
+572,ryan mclaren,Bowler,3750000.0,2013
+573,ricky ponting,Batsman,30000000.0,2013
+574,philip hughes,Batsman,7500000.0,2013
+575,jacob oram,All-Rounder,3750000.0,2013
+576,ajantha mendis,Bowler,54375000.0,2013
+577,michael clarke,Batsman,30000000.0,2013
+578,james faulkner,All-Rounder,30000000.0,2013
+579,fidel edwards,Bowler,15750000.0,2013
+580,kusal janith perera,Wicket Keeper,1500000.0,2013
+581,pankaj singh,Bowler,11250000.0,2013
+582,christopher barnwell,All-Rounder,3750000.0,2013
+583,sudeep tyagi,Bowler,7500000.0,2013
+584,clinton mckay,Bowler,7500000.0,2013
+585,nathan mccullum,Bowler,7500000.0,2013
